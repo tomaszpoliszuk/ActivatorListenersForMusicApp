@@ -1,0 +1,5 @@
+{
+	title = "Shuffle Off";
+	description = "Turn off shuffle tracks";
+	group = "Music";
+}

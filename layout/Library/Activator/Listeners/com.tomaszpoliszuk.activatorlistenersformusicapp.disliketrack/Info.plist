@@ -1,0 +1,5 @@
+{
+	title = "Dislike Track";
+	description = "Suggest less tracks like this";
+	group = "Music";
+}

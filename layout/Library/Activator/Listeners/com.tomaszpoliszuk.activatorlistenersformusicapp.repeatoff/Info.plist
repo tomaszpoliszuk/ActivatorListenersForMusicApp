@@ -1,0 +1,5 @@
+{
+	title = "Repeat Off";
+	description = "Turn off repeating tracks";
+	group = "Music";
+}

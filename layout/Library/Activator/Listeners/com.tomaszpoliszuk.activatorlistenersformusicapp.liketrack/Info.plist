@@ -1,0 +1,5 @@
+{
+	title = "Like Track";
+	description = "Add track to list of loved tracks";
+	group = "Music";
+}

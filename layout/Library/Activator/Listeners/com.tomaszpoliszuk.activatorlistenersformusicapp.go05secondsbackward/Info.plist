@@ -1,0 +1,5 @@
+{
+	title = "Go 5s backward";
+	description = "Rewind current track by 5 seconds";
+	group = "Music";
+}

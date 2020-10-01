@@ -1,0 +1,9 @@
+Package: com.tomaszpoliszuk.activatorlistenersformusicapp
+Name: Activator Listeners For Music App
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), mobilesubstrate, libactivator
+Description: Adds Listeners For Music App to Activator
+Author: Tomasz Poliszuk
+Section: Addons (Activator)
+dev: tomaszpoliszuk
