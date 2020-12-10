@@ -2,4 +2,5 @@
 	title = "Go 60s forward";
 	description = "Skip ahead current track by 60 seconds";
 	group = "Music";
+	"compatible-modes" = ("springboard", "lockscreen", "application");
 }

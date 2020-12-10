@@ -2,4 +2,5 @@
 	title = "Repeat All";
 	description = "Turn on repeat all tracks";
 	group = "Music";
+	"compatible-modes" = ("springboard", "lockscreen", "application");
 }

@@ -2,4 +2,5 @@
 	title = "Dislike Track";
 	description = "Suggest less tracks like this";
 	group = "Music";
+	"compatible-modes" = ("springboard", "lockscreen", "application");
 }

@@ -2,4 +2,5 @@
 	title = "Go 45s backward";
 	description = "Rewind current track by 45 seconds";
 	group = "Music";
+	"compatible-modes" = ("springboard", "lockscreen", "application");
 }

@@ -2,4 +2,5 @@
 	title = "Repeat One";
 	description = "Turn on repeat one track";
 	group = "Music";
+	"compatible-modes" = ("springboard", "lockscreen", "application");
 }

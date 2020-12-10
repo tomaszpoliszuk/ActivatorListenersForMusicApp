@@ -2,4 +2,5 @@
 	title = "Shuffle On";
 	description = "Turn on shuffle tracks";
 	group = "Music";
+	"compatible-modes" = ("springboard", "lockscreen", "application");
 }

@@ -2,4 +2,5 @@
 	title = "Shuffle Off";
 	description = "Turn off shuffle tracks";
 	group = "Music";
+	"compatible-modes" = ("springboard", "lockscreen", "application");
 }

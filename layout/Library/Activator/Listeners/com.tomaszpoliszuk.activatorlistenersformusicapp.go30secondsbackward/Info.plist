@@ -2,4 +2,5 @@
 	title = "Go 30s backward";
 	description = "Rewind current track by 30 seconds";
 	group = "Music";
+	"compatible-modes" = ("springboard", "lockscreen", "application");
 }

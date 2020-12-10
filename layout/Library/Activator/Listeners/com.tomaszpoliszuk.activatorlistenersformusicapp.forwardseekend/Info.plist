@@ -2,4 +2,5 @@
 	title = "Forward Seek End";
 	description = "Finish seeking forward";
 	group = "Music";
+	"compatible-modes" = ("springboard", "lockscreen", "application");
 }
